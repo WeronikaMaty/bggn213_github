@@ -1,3 +1,3 @@
 # bggn213_github
-My classwork from BGGN213 at UCSD (Fall 2023)
+My classwork from BGGN213 at UCSD (Fall 2023) with Barry Grant
 
